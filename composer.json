@@ -1,18 +1,18 @@
 {
-    "name": "sheng/ueditor",
+    "name": "ShangWeiMin/ueditor-watermark",
     "description": "desc",
     "license": "MIT",
     "authors": [
         {
-            "name": "BigKuCha",
-            "email": "nevermore1989@vip.qq.com"
+            "name": "ShangWeiMin",
+            "email": "1975454863@qq.com"
         }
     ],
     "minimum-stability": "stable",
     "require": {},
     "autoload": {
         "psr-4": {
-            "kucha\\ueditor\\": ""
+            "ShangWeiMin\\ueditor-watermark\\": ""
         }
     }
 }
